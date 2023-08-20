@@ -2,8 +2,11 @@
   "name": "app",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "check:svelte": "svelte-check",
+    "check:ts": "tsc --noEmit"
+  },
   "dependencies": {
-    "dep": "^1.0.0",
-    "svelte": "^4.2.0"
+    "dep": "^1.0.0"
   }
 }
