@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dep": "^1.0.0",
+    "svelte": "^4.2.0"
+  }
+}

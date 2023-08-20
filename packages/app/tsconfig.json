@@ -1,0 +1,9 @@
+{
+  "include": ["*.ts", "*.svelte"],
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "baseUrl": ".",
+    "rootDir": "."
+  }
+}
