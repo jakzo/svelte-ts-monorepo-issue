@@ -1,4 +1,5 @@
-1. Open in VSCode with Svelte extension installed
+To reproduce:
+
 1. `npm install`
 1. Compare outputs of:
    - `npm -w app run check:ts`
